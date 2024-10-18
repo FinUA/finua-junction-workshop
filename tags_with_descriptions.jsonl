@@ -1,0 +1,39 @@
+{"name":"work","description":"all issues related to work (employment contracts, dismissal, rights and obligations of employees, appeals against the actions of employers, working hours and holidays)"}
+{"name":"alimony","description":"can be used with family tag. child (adult) allowance"}
+{"name":"reception center","description":"accommodation in reception centers, living conditions, shared accommodation"}
+{"name":"visa issues","description":"types of visas, conditions of issuance and loss"}
+{"name":"unpaid bills","description":"different types of debt, methods of its repayment"}
+{"name":"education","description":"education in Finland"}
+{"name":"legalisation of the documents","description":"apostille, verification of various documents"}
+{"name":"KELA","description":"issues of interaction with KELA (kansaneläkelaitos) and types of assistance"}
+{"name":"car issue","description":"issues related to car ownership, driver's license, taxes"}
+{"name":"permanent address","description":"registration in the municipality and further actions"}
+{"name":"passport issue","description":"questions about passports of all types"}
+{"name":"police/court","description":"the need to interact with the police or the court"}
+{"name":"rental","description":"real estate rental"}
+{"name":"psychological support","description":"used in the case of referral to a psychological support specialist"}
+{"name":"special needs","description":"issues related to persons with health disorders (disability, etc.)"}
+{"name":"migri","description":"all questions, the answers to which can be found in the explanations of the migration service or questions that refer to the exclusive competence of this body"}
+{"name":"travelling abroad","description":"travel related to border crossing (Finland and Ukraine)"}
+{"name":"kids taken away","description":"separation (threat of separation) of children from parents (guardians)"}
+{"name":"arriving to Finland","description":"arrival (planning) to Finland, first steps and tips"}
+{"name":"unemployment support","description":"types of unemployment benefits and bodies that can provide them"}
+{"name":"power of attorney","description":"how to get power of attorney in Finland"}
+{"name":"physical violence","description":"cases where there is use (threat) of physical violence"}
+{"name":"child protection","description":"children's rights"}
+{"name":"access to medical services","description":"hot to get medical support"}
+{"name":"housing","description":"housing issues (rent, relations with neighbors, payment, search, etc.)"}
+{"name":"return support","description":"assistance for returning to Ukraine"}
+{"name":"temporary protection","description":"the process of obtaining (rejection of) temporary protection"}
+{"name":"entrepreneurship","description":"types of entrepreneurial activity in Finland and the procedure for its registration, tax reporting"}
+{"name":"pension in Ukraine","description":"all issues related to pension provision in Ukraine"}
+{"name":"guardiansip","description":"custody and care of children and adults"}
+{"name":"heritage","description":"inheritance process"}
+{"name":"taxes in Finland","description":"taxation matters in Finland"}
+{"name":"taxes in Ukraine","description":"taxation matters in Ukraine"}
+{"name":"citizenship","description":"citizenship matters in Finland and Ukraine"}
+{"name":"animals","description":"keeping animals in Finland"}
+{"name":"translation services","description":"translation of the documents in Finland"}
+{"name":"birth registration and passport","description":"the process of registering a newborn child in Finland and obtaining a passport for the child"}
+{"name":"alien's passport","description":"temporary passport matters"}
+{"name":"property","description":"all kinds of property-related matters"}
